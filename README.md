@@ -1,2 +1,2 @@
 # super-octo-potato
-SDGASEG
+Basic readme file. Nothing to get very excited about.
